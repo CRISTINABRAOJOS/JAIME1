@@ -1263,6 +1263,47 @@ a {
 .cid-su4BSQR2O3 .plan .plan-title {
   color: #000000;
 }
+.cid-su4HylExgg {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-su4HylExgg .bg-facebook {
+  background: #1778f2;
+  color: #ffffff;
+}
+.cid-su4HylExgg .bg-facebook:hover {
+  background: #0b60cb;
+}
+.cid-su4HylExgg .bg-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+.cid-su4HylExgg .bg-twitter:hover {
+  background: #0c85d0;
+}
+.cid-su4HylExgg .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-su4HylExgg .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-su4HylExgg .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-su4HylExgg [class^="socicon-"]:before,
+.cid-su4HylExgg [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
 .cid-su4MCPx89k {
   padding-top: 2rem;
   padding-bottom: 1rem;
